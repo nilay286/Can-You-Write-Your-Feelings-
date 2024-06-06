@@ -1,3 +1,4 @@
+Kullanılan Kütüphaneler:
 Python 3.x
 NumPy
 Pandas
